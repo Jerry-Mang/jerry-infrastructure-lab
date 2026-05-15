@@ -1,6 +1,7 @@
 # Enterprise AI Infrastructure Lab
 
-This repository documents my ongoing enterprise-style homelab journey, focused on networking, virtualization, Microsoft hybrid concepts and AI-assisted infrastructure operations.
+This repository documents the development of an enterprise infrastructure testing environment designed to simulate real-world networking, virtualization, wireless, CCTV and AI-assisted infrastructure scenarios.
+
 
 ---
 
