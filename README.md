@@ -131,19 +131,6 @@ Examples of issues explored and resolved:
 
 ---
 
-# Future Development
-
-Planned future areas include:
-
-- Microsoft 365 integration
-- Hybrid identity concepts
-- AI portal deployment
-- Infrastructure monitoring
-- Automation workflows
-- Enterprise AI integration
-
----
-
 # Projects
 
 ## 1. 172.16.10 Enterprise Testing Network
@@ -205,3 +192,17 @@ Skills Demonstrated:
 - CCTV Infrastructure Support
 
 [View Project](./projects/remote-station-troubleshooting.md).
+
+---
+
+# Future Development
+
+Planned future areas include:
+
+- Microsoft 365 integration
+- Hybrid identity concepts
+- AI portal deployment
+- Infrastructure monitoring
+- Automation workflows
+- Enterprise AI integration
+- AWS fundamentals
