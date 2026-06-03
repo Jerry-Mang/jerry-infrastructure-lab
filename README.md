@@ -173,17 +173,17 @@ Skills Demonstrated:
 
 Technologies:
 
-Tailscale VPN
-VMware ESXi
-Windows Server 2019
-Cisco Infrastructure
+- Tailscale VPN
+- VMware ESXi
+- Windows Server 2019
+- Cisco Infrastructure
 
 Skills Demonstrated:
 
-Secure Remote Access
-VPN Deployment
-Remote Administration
-Infrastructure Troubleshooting
+- Secure Remote Access
+- VPN Deployment
+- Remote Administration
+- Infrastructure Troubleshooting
 
 [View Project](./projects/remote-infrastructure-access-lab.md)
 
