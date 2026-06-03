@@ -204,4 +204,4 @@ Skills Demonstrated:
 - Trunk Configuration
 - CCTV Infrastructure Support
 
-
+[View Project](./projects/remote-station-troubleshooting.md).
