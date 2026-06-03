@@ -2,19 +2,21 @@ This project documents the deployment of a remote CCTV testing station using a R
 
 The objective was to extend the existing VLAN20 CCTV testing environment to a secondary workstation while maintaining management access through VLAN50.
 
-### Network Topology
+## Network Topology
 
-Cisco 3560 SW1
-Fa0/14 (Trunk)
-     |
-     |
+```text
+Cisco Catalyst 3560
+Fa0/14 (802.1Q Trunk)
+        |
+        |
 ES226 Port24 (Trunk)
-     |
-+----+----+
-|         |
-Port1     Port7
-IPC       IPC
-(VLAN20)  (VLAN20)
+        |
+   +----+----+
+   |         |
+ Port1     Port7
+ IPC       IPC
+ VLAN20    VLAN20
+```
 
 ### Initial Problem
 
@@ -59,7 +61,7 @@ while Cisco SW1 Fa0/14 was configured as:
 Trunk
 Allowed VLANs 10,20,50,60
 
-As a result, VLAN20 traffic from IPC devices could not reach the CCTV network.
+As a result, VLAN20 tagged traffic could not traverse the uplink between the ES226 and Cisco Catalyst switch.
 
 ### Resolution
 
@@ -71,10 +73,11 @@ Actions performed:
 4. Allowed VLANs 1,20,50
 5. Verified cloud connectivity remained operational
 
-Port24
-Trunk
-Allowed VLAN 1,20,50
-Valid VLAN 1,20,50
+Configured Port24 as:
+
+Port Type: Trunk
+Native VLAN: 1
+Allowed VLANs: 1,20,50
 
 Figure 4 - Final trunk configuration.
 
@@ -83,21 +86,22 @@ Figure 4 - Final trunk configuration.
 Verification completed:
 
 - IPC devices appeared in SADP
+- IPC devices obtained Layer 2 connectivity
+- VLAN20 traffic successfully traversed the trunk link
 - VLAN20 connectivity restored
 - Cloud management remained online
 - Management IP 172.16.50.21 remained reachable
 
-### Skills Demonstrated
+## Skills Demonstrated
 
-Skills Demonstrated
-
-- VLAN configuration
-- 802.1Q trunking
-- Layer 2 switching
-- CCTV network deployment
-- Network troubleshooting
-- Root cause analysis
-- Ruijie cloud management
-- Cisco Catalyst switching
+- VLAN Configuration
+- 802.1Q Trunking
+- Layer 2 Switching
+- Cisco Catalyst Switching
+- Ruijie Cloud Management
+- CCTV Infrastructure Deployment
+- Root Cause Analysis
+- Network Troubleshooting
+- Technical Documentation
 
 
