@@ -48,6 +48,10 @@ The Cisco uplink was configured as an 802.1Q trunk while the ES226 uplink remain
 
 This prevented VLAN20 traffic from traversing the uplink.
 
+![vlan 1,20,50](../images/ES226_vlan_1_20_50.png)
+
+Figure 3 - ES226 Port24 reconfigured as an 802.1Q trunk.
+
 ### Root Cause
 
 Root Cause:
@@ -78,6 +82,8 @@ Configured Port24 as:
 Port Type: Trunk
 Native VLAN: 1
 Allowed VLANs: 1,20,50
+
+
 
 Figure 4 - Final trunk configuration.
 
