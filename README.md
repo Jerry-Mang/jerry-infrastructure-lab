@@ -148,12 +148,41 @@ Planned future areas include:
 
 ## 1. 172.16.10 Enterprise Testing Network
 
-- Cisco 1941 and Catalyst 3560
-- VLAN segmentation
-- Router-on-a-stick
+Technologies:
+
+- Cisco 1941 Router
+- Cisco Catalyst 3560
+- VLAN Segmentation
+- Router-on-a-Stick
 - NAT/PAT
-- VMware ESXi networking
-- SSH management
-- Infrastructure troubleshooting
+- VMware ESXi Networking
+- SSH Management
+
+Skills Demonstrated:
+
+- VLAN Configuration
+- Inter-VLAN Routing
+- Network Troubleshooting
+- Infrastructure Administration
+
+[View Project](./projects/172.16.10-testing-network.md)
+
+---
+
+2. Remote Infrastructure Access Lab
+
+Technologies:
+
+Tailscale VPN
+VMware ESXi
+Windows Server 2019
+Cisco Infrastructure
+
+Skills Demonstrated:
+
+Secure Remote Access
+VPN Deployment
+Remote Administration
+Infrastructure Troubleshooting
 
 [View Project](./projects/172.16.10-testing-network.md)
