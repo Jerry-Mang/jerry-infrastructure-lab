@@ -68,6 +68,7 @@ Default Gateway:
 ESXi Host:
 
 172.16.10.200
+
 ---
 
 # Phase 1 - Enterprise Infrastructure Ecosystem
