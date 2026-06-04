@@ -18,6 +18,7 @@ The objective was to gain hands-on experience with enterprise virtualization, se
 
 ---
 
+```text
 Internet
     |
 5G Router
@@ -40,6 +41,7 @@ Management Network:
 Default Gateway:
 
 172.16.10.1
+```
 
 ---
 
