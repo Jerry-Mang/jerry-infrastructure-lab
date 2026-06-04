@@ -110,7 +110,7 @@ Storage
 
 This allowed the datastore to utilise the full available disk capacity.
 
-![ New finish](../finish_scuess.png)
+![ New scuess finish](../finish_scuess.png)
 Figure 3 – VMFS datastore expansion wizard.
 
 Results
