@@ -75,14 +75,77 @@ Status: Normal
 ![ New 500GB](../images/datastore.png)
 Figure 1 – New 500GB disk detected by ESXi host.
 
-## Skills Demonstrated
+Step 2 - Create New Database
+Navigate to:
 
-- VMware ESXi
-- Virtualization
-- Windows Server
-- Active Directory
-- Storage Management
-- VM Administration
+Storage
+→ New Datastore
+
+Select:
+
+Create VMFS Datastore
+
+Choose the newly installed 500GB disk.
+
+Step 3 – Configure VMFS Datastore
+
+Configure:
+
+Datastore Name: test
+Filesystem: VMFS6
+Capacity: 465.76 GB
+
+ESXi displayed the final datastore layout before creation.
+
+![ New finish](../finish.png)
+Figure 2 – VMFS datastore creation summary.
+
+Step 4 – Expand Datastore Capacity
+
+The datastore was later expanded using:
+
+Storage
+→ Increase Capacity
+→ Expand an Existing VMFS Datastore Extent
+
+This allowed the datastore to utilise the full available disk capacity.
+
+![ New finish](../finish_scuess.png)
+Figure 3 – VMFS datastore expansion wizard.
+
+Results
+
+Successfully provisioned:
+
+VMFS6 Datastore
+Capacity: 465.76 GB
+
+The datastore became available for:
+
+Virtual machine storage
+VM snapshots
+ISO repositories
+Future infrastructure projects
+Skills Demonstrated
+VMware ESXi Administration
+Datastore Management
+VMFS6 Filesystems
+Storage Provisioning
+Capacity Planning
+Infrastructure Expansion
+Virtualization Administration
 
 ---
-## Lessons Learned
+
+Lessons Learned
+
+This exercise provided practical experience with enterprise virtualization storage management, including:
+
+Physical disk detection
+Datastore creation
+VMFS filesystem management
+Storage capacity expansion
+Resource planning for virtual infrastructure
+
+---
+
