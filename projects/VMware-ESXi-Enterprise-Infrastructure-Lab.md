@@ -29,6 +29,8 @@ The objective was to gain hands-on experience with enterprise virtualization, se
 - Windows Server 2019
 - Windows 10 IT Workstation
 
+---
+
 ## Virtual Network Design
 
 
