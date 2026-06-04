@@ -2,6 +2,47 @@
 
 ## Overview
 
+This project documents the deployment and administration of a VMware ESXi virtual infrastructure environment.
+
+The lab was built to simulate a small enterprise environment, including:
+
+- Windows Server 2019
+- Active Directory
+- DNS
+- DHCP
+- Windows 10 domain clients
+- Virtual networking
+- Storage management
+
+The objective was to gain hands-on experience with enterprise virtualization, server administration and infrastructure management.
+
+---
+
+Internet
+    |
+5G Router
+    |
+Cisco 1941
+    |
+Cisco 3560
+    |
+VMware ESXi
+    |
+----------------
+| Windows Server
+| Windows 10
+----------------
+
+Management Network:
+
+172.16.10.0/24
+
+Default Gateway:
+
+172.16.10.1
+
+---
+
 ## Environment
 
 ### Physical Host
@@ -15,9 +56,46 @@
 
 ## Virtual Network Design
 
+---
+
 ## Active Directory Integration
 
+### Domain Services
+
+Installed and configured:
+
+- Active Directory Domain Services
+- DNS
+- DHCP
+
+Domain:
+
+HQ.local
+
+### User Administration
+
+Created organisational users including:
+
+HQ\rex.finance
+
+Performed:
+
+- User creation
+- Password reset
+- Password policy testing
+
 ### Domain Join
+
+Windows 10 IT workstation successfully joined to Active Directory domain.
+
+Verified:
+
+- Domain authentication
+- User login
+- Group Policy processing
+
+---
+  
 ### User Authentication
 ### Domain Login Testing
 
@@ -148,4 +226,21 @@ Storage capacity expansion
 Resource planning for virtual infrastructure
 
 ---
+
+## Skills Demonstrated
+
+- VMware ESXi Administration
+- Active Directory
+- DNS
+- DHCP
+- Windows Server 2019
+- Windows 10
+- Virtual Networking
+- Datastore Management
+- Capacity Planning
+- User Administration
+- Troubleshooting
+
+---
+
 
