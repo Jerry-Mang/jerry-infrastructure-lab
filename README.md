@@ -17,6 +17,26 @@ https://jerry-mang.github.io/enterprise-ai-infrastructure-lab/
 
 ---
 
+## Skills Demonstrated
+
+| Technology | Practical Experience |
+|------------|----------------------|
+| Cisco Routing & Switching | ✔ |
+| VLANs | ✔ |
+| 802.1Q Trunking | ✔ |
+| NAT/PAT | ✔ |
+| VMware ESXi | ✔ |
+| Windows Server 2019 | ✔ |
+| Active Directory | ✔ |
+| DNS | ✔ |
+| DHCP | ✔ |
+| VPN (Tailscale) | ✔ |
+| CCTV Infrastructure | ✔ |
+| Technical Troubleshooting | ✔ |
+| Root Cause Analysis | ✔ |
+
+---
+
 ### Networking
 
 * Cisco IOS CLI
