@@ -70,6 +70,9 @@ Activities included:
 * Password management
 * User administration
 
+
+![cloud user](../images/project_cloud_1.png)
+
 ### Task 3 – Device Enrolment
 
 Successfully enrolled Windows 10 device into Microsoft Intune.
