@@ -8,6 +8,23 @@ The objective was to understand how organisations centrally manage users, device
 
 The lab environment was integrated with an existing on-premises Active Directory infrastructure and VMware ESXi environment, providing practical experience with both traditional and cloud-based management approaches.
 
+## Architecture Diagram
+
+```text
+Dell T110 II
+     │
+VMware ESXi
+     │
+ ├─ DC1 (Windows Server 2019)
+ │      HQ.lab.org
+ │
+ └─ WIN10-IT
+        │
+        ├─ Domain Joined
+        ├─ Workplace Joined
+        └─ Intune Enrolled
+```
+
 ---
 
 ## Objectives
