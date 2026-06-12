@@ -59,7 +59,7 @@ The lab environment was integrated with an existing on-premises Active Directory
 
 Configured Microsoft 365 tenant environment and explored Microsoft Entra ID administration.
 
-![cloud account](../images/project7-intune/Project_7_cloud_account.png)
+![cloud account](../images/project7-intune/Project_7_cloud_account.jpeg)
 Figure 1. Tenant setup and Microsoft 365 Business Premium activation.
 
 ### Task 2 – User and Group Management
