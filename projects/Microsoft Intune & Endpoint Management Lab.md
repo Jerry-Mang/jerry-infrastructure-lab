@@ -78,8 +78,16 @@ Activities included:
 * Password administration
 * Cloud identity management
 * Microsoft 365 user administration
+  
 
 
+Figure 3. Successfully created a Microsoft 365 cloud user account and assigned a Microsoft 365 Business Premium licence.
+
+
+Figure 4. First sign-in verification for the newly created cloud user account.
+
+
+Figure 5. Successfully authenticated to Microsoft 365 services using the newly created cloud user account.
 
 ### Task 3 – Device Enrolment
 
