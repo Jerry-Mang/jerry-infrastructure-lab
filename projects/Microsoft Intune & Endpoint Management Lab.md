@@ -107,14 +107,23 @@ Figure 5. Successfully authenticated to Microsoft 365 services using the newly c
 
 ### Task 3 – Device Enrolment
 
-Successfully enrolled Windows 10 device into Microsoft Intune.
 
-Verified:
+Figure 3.1. Windows 10 device registration using Microsoft 365 cloud account.
 
-* Device registration
-* MDM management
-* Compliance reporting
-* Device synchronisation
+
+
+Successfully enrolled a Windows 10 virtual machine into Microsoft Intune and verified device management status.
+
+Activities included:
+
+- Configuring Intune automatic enrollment
+- Registering a Windows device using a Microsoft 365 account
+- Synchronising device information with Intune
+- Verifying compliance and management status
+
+
+
+Figure 3. Device successfully enrolled into Microsoft Intune and reporting a compliant status.
 
 ### Task 4 – Compliance Policies
 
