@@ -84,7 +84,7 @@ Figure 1. Tenant setup and Microsoft 365 Business Premium activation.
 Created and managed cloud users and security groups.
 
 ![cloud user](../images/project7-intune/Project_7_cloud_01_main.png)
-Figure 2. Microsoft 365 cloud user administration and license management.
+Figure 2.1 Microsoft 365 cloud user administration and license management.
 
 Successfully created and managed cloud identities within Microsoft 365 Business Premium.
 
@@ -97,20 +97,15 @@ Activities included:
 * Microsoft 365 user administration
   
 ![cloud user](../images/project7-intune/Project_7_user_created.png)
-Figure 3. Successfully created a Microsoft 365 cloud user account and assigned a Microsoft 365 Business Premium licence.
+Figure 2.2. Successfully created a Microsoft 365 cloud user account and assigned a Microsoft 365 Business Premium licence.
 
 ![cloud user](../images/project7-intune/Project_7_first_login.png)
-Figure 4. First sign-in verification for the newly created cloud user account.
+Figure 2.3. First sign-in verification for the newly created cloud user account.
 
 ![cloud user](../images/project7-intune/Project_7_user_login_success.png)
-Figure 5. Successfully authenticated to Microsoft 365 services using the newly created cloud user account.
+Figure 2.4. Successfully authenticated to Microsoft 365 services using the newly created cloud user account.
 
 ### Task 3 – Device Enrolment
-
-
-Figure 3.1. Windows 10 device registration using Microsoft 365 cloud account.
-
-
 
 Successfully enrolled a Windows 10 virtual machine into Microsoft Intune and verified device management status.
 
@@ -121,9 +116,16 @@ Activities included:
 - Synchronising device information with Intune
 - Verifying compliance and management status
 
+![cloud user](../images/project7-intune/Project_7_registering.png)
+Figure 3.1. Windows 10 device registration using Microsoft 365 cloud account.
 
 
-Figure 3. Device successfully enrolled into Microsoft Intune and reporting a compliant status.
+![cloud user](../images/project7-intune/Project_7_Intune_automatic_enrollment_settings.png)
+Figure 3.2. Configured Microsoft Intune automatic enrollment settings.
+
+
+![cloud user](../images/project7-intune/Project_7_device_enrolled_success.png)
+Figure 3.3. Device successfully enrolled into Microsoft Intune and reporting a compliant status.
 
 ### Task 4 – Compliance Policies
 
