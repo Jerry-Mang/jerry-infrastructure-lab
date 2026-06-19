@@ -66,7 +66,7 @@ Verified client devices successfully obtained network configuration automaticall
 
 ---
 
-Organisational Unit Structure
+### Organisational Unit Structure
 
 Created departmental OUs:
 
