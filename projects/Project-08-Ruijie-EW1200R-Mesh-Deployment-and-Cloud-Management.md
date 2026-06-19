@@ -4,6 +4,7 @@ Deploy a multi-node wireless mesh network using Ruijie EW1200R routers and manag
 
 The project was designed to simulate a small branch office wireless deployment where a root router provides network services and additional wireless repeaters extend Wi-Fi coverage to remote areas without Ethernet cabling.
 
+---
 
 ### Technologies Used
 
@@ -15,6 +16,8 @@ Cloud Management
 Web Tunnel
 Remote Access
 Wireless Backhaul
+
+---
 
 ### Equipment
 
@@ -30,7 +33,13 @@ Wireless Backhaul
 
 ### Physical Topology
 
-Wireless Mesh
+---
+
+### Configuration
+
+---
+
+### Wireless Mesh
 
 Both additional EW1200R units were powered on and automatically joined the root router as repeaters.
 
@@ -41,55 +50,73 @@ Online
 
 No manual WDS configuration was required.
 
-Client Testing
+---
+
+### Client Testing
 
 Successfully connected:
 
+```text
 EZVIZ Wireless Camera
+```
 
 Assigned IP:
 
+```text
 172.16.21.70
+```
 
 Verified:
 
-Wireless association
-DHCP assignment
-Internet access
-Mesh backhaul operation
-Findings
+- Wireless association
+- DHCP assignment
+- Internet access
+- Mesh backhaul operation
+
+---
+
+### Findings
+
 Automatic LAN Conflict Detection
 
 Attempted LAN configuration:
 
+```text
 172.16.20.180
+```
 
 System automatically changed to:
 
+```text
 172.16.21.180
+```
 
 Reason:
 
 The WAN interface was already operating on:
 
+```text
 172.16.20.0/24
+```
 
 Using the same subnet on both WAN and LAN would create routing conflicts.
 
 ReyeeOS therefore automatically created:
 
+```text
 LAN = 172.16.21.0/24
+```
 
 to maintain proper NAT functionality.
 
 ### Skills Demonstrated
 
-Wireless Mesh Deployment
-Wireless Repeater Configuration
-DHCP Services
-NAT
-Layer 3 Routing Concepts
-Wireless Client Provisioning
-Cloud Management
-Remote Monitoring
-Network Troubleshooting
+- Wireless Mesh Deployment
+- Wireless Repeater Configuration
+- DHCP Services
+- NAT
+- Layer 3 Routing Concepts
+- Wireless Client Provisioning
+- Cloud Management
+- Remote Monitoring
+- Network Troubleshooting
