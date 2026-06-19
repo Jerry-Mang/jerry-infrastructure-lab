@@ -212,5 +212,5 @@ Maintaining documentation significantly reduces troubleshooting time and provide
 
 Outcome: Successfully restored connectivity to the remote CCTV testing station and re-established cloud management connectivity for the ES226 PoE switch.
 
-Outcome: Successfully restored connectivity to the remote CCTV testing station and re-established cloud management connectivity for the ES226 PoE switch.
+
 
