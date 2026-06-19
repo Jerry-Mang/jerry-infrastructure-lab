@@ -50,6 +50,7 @@ The deployment was fully managed through Ruijie Cloud and included remote device
 
 
 ![ruijie EW1200R](../images/project08-ew1200r-mesh/project_8_01.png)
+
 Figure 1 – EW1200R Wireless Mesh Topology showing one Root Router and two synchronized Mesh Repeaters managed through Ruijie Cloud.
 
 ---
