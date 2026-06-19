@@ -10,9 +10,9 @@ The objective was to extend VLAN connectivity from the main rack to a secondary 
 
 ### Network Desgin
 
+```text
 Main Lab Rack
 
-```text
 Cisco 1941 Router
         |
 Cisco Catalyst 3560 (SW1)
