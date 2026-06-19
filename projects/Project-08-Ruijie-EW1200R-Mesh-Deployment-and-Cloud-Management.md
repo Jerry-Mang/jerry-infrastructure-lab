@@ -128,7 +128,7 @@ to maintain proper NAT functionality.
 
 ### Key Features Tested
 
-Root Router Deployment
+#### Root Router Deployment
 
 WAN:
 
@@ -138,7 +138,7 @@ LAN:
 
 172.16.21.180
 
-Automatic Mesh Pairing
+#### Automatic Mesh Pairing
 
 Using:
 
