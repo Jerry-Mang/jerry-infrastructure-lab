@@ -124,14 +124,81 @@ LAN = 172.16.21.0/24
 
 to maintain proper NAT functionality.
 
+---
+
+### Key Features Tested
+
+Root Router Deployment
+
+WAN:
+
+172.16.20.80
+
+LAN:
+
+172.16.21.180
+
+Automatic Mesh Pairing
+
+Using:
+
+Mesh / Sync Button
+
+to onboard additional EW1200R devices.
+
+Wireless Backhaul
+
+Root
+
+↓
+
+Repeater
+
+↓
+
+Repeater
+
+No Ethernet cabling required.
+
+Cloud Management
+
+All devices synchronized successfully with Ruijie Cloud.
+
+Web Tunnel Remote Access
+
+Verified remote access to all mesh devices through Ruijie Cloud without port forwarding.
+
+Client Connectivity
+
+Successfully connected:
+
+EZVIZ Wireless Camera
+
+172.16.21.70
+
+---
+
 ### Skills Demonstrated
 
 - Wireless Mesh Deployment
 - Wireless Repeater Configuration
 - DHCP Services
 - NAT
+- Wireless Backhaul Technologies
 - Layer 3 Routing Concepts
 - Wireless Client Provisioning
 - Cloud Management
 - Remote Monitoring
-- Network Troubleshooting
+- Remote Troubleshooting
+- Network Validation
+- Small Branch Network Deployment
+
+---
+
+### Lessons Learned
+
+This project provided practical experience with enterprise-style wireless mesh deployments and demonstrated how Ruijie Cloud can simplfy remote network management.
+
+The deployment also highlighted the importantce of Layer 3 design considerations, particularly WAN and LAN subnet separation when NAT services are enabled.
+
+The sutomatic subnet conflict detection feature within ReyeeOS provided additional insight into how modern networking platforma protect administrators from common configuration mistakes.
