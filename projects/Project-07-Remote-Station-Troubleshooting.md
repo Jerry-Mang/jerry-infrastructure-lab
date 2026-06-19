@@ -12,6 +12,7 @@ The objective was to extend VLAN connectivity from the main rack to a secondary 
 
 Main Lab Rack
 
+```text
 Cisco 1941 Router
         |
 Cisco Catalyst 3560 (SW1)
@@ -22,8 +23,9 @@ Cisco Catalyst 3560 (SW1)
 Ruijie ES226 PoE Switch
         |
 Remote CCTV Test Station
+```
 
-VLAN Structure
+### VLAN Structure
 
 | VLAN   | Purpose            | Subnet         |
 | ------ | ------------------ | -------------- |
@@ -69,6 +71,7 @@ Status: trunking
 Native VLAN: 50
 Allowed VLANs: 10,20,50,60
 
+---
 
 Problem Encountered
 
@@ -81,7 +84,9 @@ Observed symptoms:
 - SW1 Fa0/18 reported notconnect
 - SW1 Fa0/22 reported notconnect
 
-Troubleshooting Process
+---
+
+### Troubleshooting Process
 Step 1 – Layer 1 Verification
 
 Tested physical connectivity using:
@@ -103,7 +108,9 @@ Fa0/14
 
 which immediately restored service.
 
-Lessons Learned
+---
+
+### Lessons Learned
 Always verify Layer 1 first
 
 Before investigating:
@@ -121,7 +128,7 @@ verify:
 
 Use show commands
 
-Useful Cisco commands:
+### Useful Cisco commands:
 
 show interfaces status
 show interfaces trunk
