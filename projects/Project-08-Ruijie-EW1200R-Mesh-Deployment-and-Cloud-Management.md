@@ -113,7 +113,7 @@ The device operated in Router Mode and provided DHCP and NAT services for the wi
 
 ![ruijie EW1200R](../images/project08-ew1200r-mesh/Project_08_06.png)
 
-Figure 2 – Root EW1200R operating in Router Mode with WAN connectivity provided from the existing VLAN 20 network.
+Figure 2 – Root EW1200R operating in Router Mode with WAN address 172.16.20.80 connected to the existing CCTV VLAN 20 network.
 
 ---
 
@@ -135,7 +135,7 @@ Online
 
 ![ruijie EW1200R](../images/project08-ew1200r-mesh/project_08_02.png)
 
-Figure 3 – All three EW1200R devices successfully synchronized and managed through Ruijie Cloud.
+Figure 3 – Ruijie Cloud successfully displaying the Root Router and two synchronized mesh repeaters.
 
 ---
 
@@ -159,7 +159,7 @@ The deployment successfully extended network coverage without requiring Ethernet
 
 ![ruijie EW1200R](../images/project08-ew1200r-mesh/Project_08_04.png)
 
-Figure 4 – Mesh repeaters successfully joined the root router using the built-in Mesh Sync function.
+Figure 4 – Repeater status page showing both EW1200R repeaters successfully synchronized with the root router and operating through wireless mesh backhaul.
 
 ---
 
@@ -173,16 +173,17 @@ Assigned Address:
 
 Validated:
 
-Wireless association
-DHCP address assignment
-Internet connectivity
-Mesh backhaul communication
-Stable cloud connectivity
+Validated:
 
+- Wireless client association
+- DHCP address assignment
+- Mesh backhaul communication
+- Cloud management visibility
+- Internet connectivity
 
 ![ruijie EW1200R](../images/project08-ew1200r-mesh/Project_08_05.png)
 
-Figure 5 – EZVIZ wireless camera connected through the EW1200R mesh network and received an IP address via DHCP.
+Figure 5 – EZVIZ wireless camera successfully connected to the mesh network and obtained IP address 172.16.21.70 from the EW1200R DHCP service.
 
 ---
 
@@ -289,6 +290,7 @@ EZVIZ Wireless Camera
 
 ### Skills Demonstrated
 
+- Wireless Mesh Architecture
 - Wireless Mesh Deployment
 - Wireless Repeater Configuration
 - DHCP Services
@@ -296,9 +298,10 @@ EZVIZ Wireless Camera
 - Wireless Backhaul Technologies
 - Layer 3 Routing Concepts
 - Wireless Client Provisioning
-- Cloud Management
+- Cloud-Based Network Management
 - Remote Monitoring
 - Remote Troubleshooting
+- Remote Device Administration
 - Network Validation
 - Small Branch Network Deployment
 
@@ -310,4 +313,6 @@ This project provided practical experience with enterprise-style wireless mesh d
 
 The deployment also highlighted the importantce of Layer 3 design considerations, particularly WAN and LAN subnet separation when NAT services are enabled.
 
-The sutomatic subnet conflict detection feature within ReyeeOS provided additional insight into how modern networking platforma protect administrators from common configuration mistakes.
+The automatic subnet conflict detection feature within ReyeeOS provided additional insight into how modern networking platforma protect administrators from common configuration mistakes.
+
+This project also demonstrated how modern wireless mesh solutions can be rapidly deployed and remotely managed through cloud-based platforms without requiring advanced wireless controller infrastructure.
