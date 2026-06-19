@@ -129,6 +129,10 @@ Synced
 
 Online
 
+![ruijie EW1200R](../images/project08-ew1200r-mesh/project_8_02.png)
+
+Figure 2 – All three EW1200R devices successfully synchronized and managed through Ruijie Cloud.
+
 ---
 
 #### Step 3 - Wireless Backhaul Validation
