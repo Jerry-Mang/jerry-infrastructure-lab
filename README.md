@@ -246,23 +246,43 @@ Successfully deployed a functional enterprise testing environment supporting Cis
 
 ---
 
-## 2. Remote Infrastructure Access Lab
+## Project 02 – Remote Infrastructure Access Lab
 
-Technologies:
+### Overview
 
-- Tailscale VPN
+Designed and deployed a secure remote access solution to manage enterprise infrastructure from external networks using VPN technologies.
+
+---
+
+### Technologies
+
 - VMware ESXi
 - Windows Server 2019
 - Cisco Infrastructure
+- Tailscale VPN
+- SSH
 
-Skills Demonstrated:
+---
+
+### Skills Demonstrated
 
 - Secure Remote Access
 - VPN Deployment
 - Remote Administration
 - Infrastructure Troubleshooting
+- Remote Device Management
 
-[🚀 Read Full Case Study](projects/Project-02-VMware-ESXi-Enterprise-Infrastructure-Lab.md)
+---
+
+### Outcome
+
+Implemented secure remote connectivity allowing enterprise infrastructure to be monitored and administered remotely while maintaining network security.
+
+---
+
+[🚀 Read Full Case Study](projects/Project-04-Remote-Infrastructure-Access-Lab.md)
+
+---
 
 ## 3.Remote Station Trunk Deployment and Troubleshooting
 
