@@ -97,6 +97,7 @@ Each solution will include:
 * OSPF Fundamentals
 * DHCP
 * DNS
+* TCP/IP Troubleshooting
 
 ### Infrastructure
 
@@ -106,6 +107,16 @@ Each solution will include:
 * Windows 10 Domain Join
 * Group Policy Fundamentals
 
+### Wireless & Cloud-Managed Networking
+
+* Ruijie / Reyee Wireless solutions
+* Guest Wi-Fi
+* VLAN-Based SSID Design
+* Cloud Management
+* Firmware Updates
+* Remote Web
+* Tunnel Configuration
+ 
 ### Remote Access
 
 * Tailscale VPN
@@ -119,11 +130,13 @@ Each solution will include:
 * PoE Switching
 * CCTV Network Troubleshooting
 
-### Documentation
+### Technical Documentation
 
-* Technical Documentation
 * Troubleshooting Reports
+* Deployment Guides
 * Infrastructure Project Documentation
+* Root Cause Analysis
+* Technical Knowledge Based
 
 ---
 
