@@ -24,8 +24,6 @@ Building infrastructure knowledge through real projects, practical documentation
 
 ---
 
-[🌐 Live Project Site:]
-
 [🚀 Read Full Case Study](projects/Project-01-Cisco-Network-Foundation-Lab.md)
 
 
@@ -238,9 +236,8 @@ Skills Demonstrated:
 - Inter-VLAN Routing
 - Network Troubleshooting
 - Infrastructure Administration
-
-[View Project](./projects/172.16.10-testing-network.md)
-[View Project](./projects/Project-01-Cisco-Network-Foundation-Lab.md)
+  
+[🚀 Read Full Case Study](projects/Project-01-Cisco-Network-Foundation-Lab.md)
 
 projects/Project-01-Cisco-Network-Foundation-Lab.md
 
@@ -263,8 +260,7 @@ Skills Demonstrated:
 - Remote Administration
 - Infrastructure Troubleshooting
 
-[View Project](./projects/remote-infrastructure-access-lab.md)
-
+[🚀 Read Full Case Study](projects/Project-02-VMware-ESXi-Enterprise-Infrastructure-Lab.md)
 
 ## 3.Remote Station Trunk Deployment and Troubleshooting
 
@@ -281,8 +277,8 @@ Skills Demonstrated:
 - Fault Isolation
 - Trunk Configuration
 - CCTV Infrastructure Support
-
-[View Project](./projects/remote-station-troubleshooting.md).
+  
+[🚀 Read Full Case Study](projects/Project-03-Windows-Server-2019-Active-Directory-Infrastructure-Lab.md)
 
 ---
 
