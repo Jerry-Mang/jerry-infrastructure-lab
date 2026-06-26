@@ -14,16 +14,17 @@ Building infrastructure knowledge through real projects, practical documentation
 
 ## Current Focus
 
-- Enterprise Networking
-- Cisco Routing & Switching
-- VMware ESXi Infrastructure
-- Windows Server & Active Directory
-- Microsoft 365 / Hybrid Infrastructure
-- Ruijie / Reyee Wireless Solutions
-- CCTV & IP Network Integration
-- Technical Support & Pre-Sales Engineering
-- Solution Design, BOMs and Documentation
+Current areas of study and development:
 
+- Enterprise Networking
+- Technical Support & Pre-Sales Engineering
+- Solution Design
+- Ruijie / Reyee Wireless Solutions
+- Microsoft Hybrid Infrastructure
+- VMware Virtualization
+- Technical Documentation
+- AI-assisted Infrastructure Operations
+  
 ---
 
 [🌐 Live Project Site:](https://github.com/Jerry-Mang/jerry-infrastructure-lab)
@@ -73,24 +74,6 @@ Each solution portfolio will include:
 ---
 
 ## Skills Demonstrated
-
-| Technology | Practical Experience |
-|------------|----------------------|
-| Cisco Routing & Switching | ✔ |
-| VLANs | ✔ |
-| 802.1Q Trunking | ✔ |
-| NAT/PAT | ✔ |
-| VMware ESXi | ✔ |
-| Windows Server 2019 | ✔ |
-| Active Directory | ✔ |
-| DNS | ✔ |
-| DHCP | ✔ |
-| VPN (Tailscale) | ✔ |
-| CCTV Infrastructure | ✔ |
-| Technical Troubleshooting | ✔ |
-| Root Cause Analysis | ✔ |
-
----
 
 ### Networking
 
@@ -152,37 +135,6 @@ Each solution portfolio will include:
 
 ---
 
-# Current Lab Network
-
-Management Network:
-
-172.16.10.0/24
-
-Default Gateway:
-
-172.16.10.1
-
-ESXi Host:
-
-172.16.10.200
-
----
-
-## Current Focus
-
-Current areas of study and development:
-
-- Enterprise Networking
-- Technical Support & Pre-Sales Engineering
-- Solution Design
-- Ruijie / Reyee Wireless Solutions
-- Microsoft Hybrid Infrastructure
-- VMware Virtualization
-- Technical Documentation
-- AI-assisted Infrastructure Operations
-
----
-
 ## Professional Development Roadmap
 
 ### 2026
@@ -211,6 +163,22 @@ Current areas of study and development:
 - Jerry Infrastructure Lab Knowledge Platform
 - Digital Technical Assets & Solutions Portfolio
   
+---
+
+# Current Lab Network
+
+Management Network:
+
+172.16.10.0/24
+
+Default Gateway:
+
+172.16.10.1
+
+ESXi Host:
+
+172.16.10.200
+
 ---
 
 ### Mission
