@@ -2,6 +2,8 @@
 
 Enterprise Infrastructure • Networking • Solution Design
 
+## About
+
 Jerry Infrastructure Lab is a practical technical portfolio focused on enterprise networking, infrastructure systems, wireless solutions, virtualization, Microsoft technologies and technical documentation.
 
 This lab documents real-world infrastructure learning through hands-on projects, troubleshooting cases, solution design, deployment notes and technical knowledge assets.
@@ -141,6 +143,13 @@ Each solution portfolio will include:
 * Root Cause Analysis
 * Technical Knowledge Based
 
+### AI Infrastructure
+
+- Open WebUI
+- Gemini API
+- AI-assisted Infrastructure Operations
+- Internal AI Portal Concepts
+
 ---
 
 # Current Lab Network
@@ -159,49 +168,54 @@ ESXi Host:
 
 ---
 
-# Phase 1 - Enterprise Infrastructure Ecosystem
+## Current Focus
 
-Technologies and concepts explored:
+Current areas of study and development:
 
-* Cisco 1941 and Catalyst 3560
-* VLAN segmentation
-* Router-on-a-stick
-* NAT/PAT
-* SSH management
-* VMware ESXi virtualization
-* Windows Server 2019
-* Active Directory and DNS
-* Windows 10 domain clients
-* VPN and remote access
-* Microsoft 365 hybrid concepts
+- Enterprise Networking
+- Technical Support & Pre-Sales Engineering
+- Solution Design
+- Ruijie / Reyee Wireless Solutions
+- Microsoft Hybrid Infrastructure
+- VMware Virtualization
+- Technical Documentation
+- AI-assisted Infrastructure Operations
 
 ---
 
-# Phase 2 - Enterprise AI Infrastructure Lab
+## Professional Development Roadmap
 
-Current and future goals:
+### 2026
 
-* Open WebUI deployment
-* Gemini API integration
-* AI infrastructure assistant
-* AI troubleshooting workflows
-* AI-assisted operations
-* Internal AI portal concepts
-* Log analysis and monitoring
+- CCNA (200-301)
+- Technical Support & Pre-Sales Engineering
+- Enterprise Networking
+- Wireless Heatmap Design
+- Solution Design & BOM Preparation
+- Technical Proposal Writing
+- Microsoft 365 Hybrid Infrastructure
 
+### 2027
+
+- CCNP Enterprise
+- Enterprise Wi-Fi Solutions
+- Network Security
+- Microsoft Azure
+- Infrastructure Automation
+- AI-assisted Infrastructure Operations
+
+### Long-Term Vision
+
+- Senior Technical Pre-Sales Engineer
+- Infrastructure Consultant
+- Jerry Infrastructure Lab Knowledge Platform
+- Digital Technical Assets & Solutions Portfolio
+  
 ---
 
-# Project Goals
+### Mission
 
-The purpose of this homelab is to build practical experience in:
-
-- Enterprise infrastructure
-- Systems integration
-- Virtualization
-- Networking
-- Hybrid cloud concepts
-- AI-assisted infrastructure operations
-- Troubleshooting and technical documentation
+To transform enterprise infrastructure knowledge into practical, reusable resources that help engineers design, deploy and troubleshoot modern IT environments.
 
 ---
 
