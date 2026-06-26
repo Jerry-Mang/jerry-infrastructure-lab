@@ -242,6 +242,8 @@ Skills Demonstrated:
 - Infrastructure Administration
 
 [View Project](./projects/172.16.10-testing-network.md)
+[View Project](./Project-01-Cisco-Network-Foundation-Lab.md)
+
 
 ---
 
