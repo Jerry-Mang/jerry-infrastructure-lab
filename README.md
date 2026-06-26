@@ -1,4 +1,4 @@
-# Enterprise AI Infrastructure Lab
+# Jerry Infrastructure Lab
 
 This repository documents the development of an enterprise infrastructure testing environment designed to simulate real-world networking, virtualization, wireless, CCTV and AI-assisted infrastructure scenarios.
 
