@@ -45,25 +45,25 @@ This section will develop into a practical library of infrastructure and network
 
 Planned solution case studies:
 
-- Small Office Network Design
-- Warehouse Wi-Fi Solution
-- Guest Wi-Fi with Captive Portal
-- CCTV Network Segmentation
-- VLAN Design for SMB Environments
-- Ruijie / Reyee Cloud-Managed Networking
-- Hybrid Infrastructure Lab
-- Microsoft 365 and On-Prem Integration
+* Small Office Network Design
+* Warehouse Wi-Fi Solution
+* Guest Wi-Fi with Captive Portal
+* CCTV Network Segmentation
+* VLAN Design for SMB Environments
+* Ruijie / Reyee Cloud-Managed Networking
+* Hybrid Infrastructure Lab
+* Microsoft 365 and On-Prem Integration
 
 Each solution will include:
 
-- Customer Requirements
-- Network Topology
-- VLAN Design
-- Hardware Selection
-- BOM Structure
-- Technical Reasoning
-- Risk Considerations
-- Documentation Notes
+* Customer Requirements
+* Network Topology
+* VLAN Design
+* Hardware Selection
+* BOM Structure
+* Technical Reasoning
+* Risk Considerations
+* Documentation Notes
 
 ---
 
@@ -160,17 +160,17 @@ ESXi Host:
 
 Technologies and concepts explored:
 
-- Cisco 1941 and Catalyst 3560
-- VLAN segmentation
-- Router-on-a-stick
-- NAT/PAT
-- SSH management
-- VMware ESXi virtualization
-- Windows Server 2019
-- Active Directory and DNS
-- Windows 10 domain clients
-- VPN and remote access
-- Microsoft 365 hybrid concepts
+* Cisco 1941 and Catalyst 3560
+* VLAN segmentation
+* Router-on-a-stick
+* NAT/PAT
+* SSH management
+* VMware ESXi virtualization
+* Windows Server 2019
+* Active Directory and DNS
+* Windows 10 domain clients
+* VPN and remote access
+* Microsoft 365 hybrid concepts
 
 ---
 
@@ -178,13 +178,13 @@ Technologies and concepts explored:
 
 Current and future goals:
 
-- Open WebUI deployment
-- Gemini API integration
-- AI infrastructure assistant
-- AI troubleshooting workflows
-- AI-assisted operations
-- Internal AI portal concepts
-- Log analysis and monitoring
+* Open WebUI deployment
+* Gemini API integration
+* AI infrastructure assistant
+* AI troubleshooting workflows
+* AI-assisted operations
+* Internal AI portal concepts
+* Log analysis and monitoring
 
 ---
 
