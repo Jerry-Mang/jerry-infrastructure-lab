@@ -24,6 +24,35 @@ Provide a brief overview of the proposed solution, project objectives and expect
 
 ## Customer Background
 
+ABC Manufacturing Ltd
+
+Industry: Manufacturing
+
+Office: 
+
+30 Staff
+
+Warehouse:
+
+1
+
+Internet:
+
+1 Gbps Fibre
+
+Requirements:
+
+• Reliable Wi-Fi
+• Guest Wi-Fi
+• 30 CCTV Cameras
+• Face Recognition Time Attendance
+• Warehouse Wi-Fi
+• 10 Warehouse PCs
+• Cloud Management
+• Future Expansion
+
+---
+
 ## Business Requirements
 
 ## Technical Requirements
