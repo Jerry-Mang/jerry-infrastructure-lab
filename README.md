@@ -203,26 +203,44 @@ Examples of issues explored and resolved:
 
 ---
 
-# Projects
+## Project 01 – 172.16.10 Enterprise Testing Network
 
-## 1. 172.16.10 Enterprise Testing Network
+### Overview
 
-Technologies:
+Designed and built a small enterprise-style network to simulate a real business environment for learning enterprise networking, virtualization and Windows infrastructure integration.
+
+---
+
+### Technologies
 
 - Cisco 1941 Router
 - Cisco Catalyst 3560
+- VMware ESXi
+- Windows Server 2019
+- Windows 10
 - VLAN Segmentation
 - Router-on-a-Stick
 - NAT/PAT
-- VMware ESXi Networking
 - SSH Management
 
-Skills Demonstrated:
+---
 
+### Skills Demonstrated
+
+- Enterprise Network Design
 - VLAN Configuration
 - Inter-VLAN Routing
-- Network Troubleshooting
+- NAT/PAT
+- Infrastructure Troubleshooting
+- VMware Networking
 - Infrastructure Administration
+
+---
+
+### Outcome
+
+Successfully deployed a functional enterprise testing environment supporting Cisco networking, VMware virtualization and Windows Server infrastructure. The project provides the foundation for future Microsoft Hybrid Infrastructure and Enterprise Networking labs.
+
   
 [🚀 Read Full Case Study](projects/Project-01-Cisco-Network-Foundation-Lab.md)
 
